@@ -33,7 +33,7 @@ def eightBall_answer():
 
 #function that generates the 8balls response to client
 def response(m8ball_ans):
-  print("Well {}... here's my answer:".format(name))
+  print("Well {}... here's my answer to you:".format(name))
   time.sleep(0.5)
   print(m8ball_ans)
 
