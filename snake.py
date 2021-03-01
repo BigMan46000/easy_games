@@ -14,7 +14,7 @@ high_score = 0
 
 # set up the screen
 window = turtle.Screen()
-window.title("BigMan's Snake Game")
+window.title("BigMan's Game of Snake")
 window.bgcolor("green")
 window.setup(width = 600, height = 600)
 window.tracer(0) #turns off screen updates
